@@ -1,4 +1,4 @@
-name: vss
+name: RDP
 
 on:
   workflow_dispatch:
